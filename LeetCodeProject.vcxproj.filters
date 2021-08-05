@@ -48,5 +48,31 @@
     <ClCompile Include="lc91.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="lc93.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lc714.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lc50cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lc25.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lc752.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lc168.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lc726.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="structDefine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

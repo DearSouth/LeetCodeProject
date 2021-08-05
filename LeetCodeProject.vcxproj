@@ -142,14 +142,24 @@
     <ClCompile Include="hw1.cpp" />
     <ClCompile Include="hw3.cpp" />
     <ClCompile Include="lc1143.cpp" />
+    <ClCompile Include="lc168.cpp" />
     <ClCompile Include="lc1705.cpp" />
+    <ClCompile Include="lc25.cpp" />
     <ClCompile Include="lc32.cpp" />
     <ClCompile Include="lc35.cpp" />
     <ClCompile Include="lc36.cpp" />
     <ClCompile Include="lc39.cpp" />
+    <ClCompile Include="lc50cpp.cpp" />
+    <ClCompile Include="lc714.cpp" />
+    <ClCompile Include="lc726.cpp" />
+    <ClCompile Include="lc752.cpp" />
     <ClCompile Include="lc783.cpp" />
     <ClCompile Include="lc91.cpp" />
+    <ClCompile Include="lc93.cpp" />
     <ClCompile Include="LeetCodeProject.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="structDefine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
